@@ -1,0 +1,14 @@
+IPv4dev=eth0
+IPv4addr=192.168.1.16/24
+IPv4gw=192.168.1.1
+dhcpReserv=1
+install_user=pi
+VPN=openvpn
+pivpnPROTO=udp
+pivpnPORT=9999
+pivpnDNS1=192.168.1.1
+pivpnDNS2=1.0.0.1
+pivpnHOST=myzone.dynv6.net
+pivpnENCRYPT=256
+TWO_POINT_FOUR=1 
+UNATTUPG=1
